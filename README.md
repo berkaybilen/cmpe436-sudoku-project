@@ -1,6 +1,6 @@
 # cmpe436-sudoku-project# sudokuGame
 
-### Apk file can be found here : [Google Drive link ](https://drive.google.com/drive/u/0/folders/1TzIPOVeht_OtlGsVUCyrWkVF5icyhI3F) ###
+### I am having trouble when I upload APK to the drive link shared in class, but you can find APK in here github page in [Relases](https://github.com/berkaybilen/cmpe436-sudoku-project/releases) ###
 
 ----------
 
