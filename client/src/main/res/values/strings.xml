@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sudoku Game</string>
+    <string name="player_1">Player 1</string>
+    <string name="player_2">Player 2</string>
+    <string name="new_game">New Game</string>
+    <string name="lock_cell">Lock Cell</string>
+    <string name="clear_cell">Clear</string>
+    <string name="current_turn">Current Turn: %s</string>
+    <string name="game_complete">Game Complete!</string>
+    <string name="locked_cells">Locked: %d</string>
+</resources>

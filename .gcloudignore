@@ -1,0 +1,9 @@
+.git
+.gradle
+.idea
+client/
+local.properties
+*.iml
+
+# We explicitly do NOT ignore the build folder because we need the jar!
+# (Do not add 'build/' or 'server/build/' to this list)
